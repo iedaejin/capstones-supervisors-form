@@ -1,0 +1,5 @@
+# Supervisors choose 3-5 topics (program:topic:expertise)
+# Format: SupervisorID: Capacity, Prog:Topic:Level, ...
+# Programs: BDBA_T01-20, BCSAI_T01-20, BBA+BDBA_T01-20, PPLE+DBA_T01-20
+
+Dae-Jin Lee: 5, BBA+BDBA:BBA+BDBA_T02:Expert, BBA+BDBA:BBA+BDBA_T11:Expert, BBA+BDBA:BBA+BDBA_T19:Expert, BBA+BDBA:BBA+BDBA_T20:Expert
